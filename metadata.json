@@ -1,0 +1,7 @@
+{
+  "name": "หอวิชาการนาฏศิลป์ไทย",
+  "description": "คลังสารสนเทศวิชาการนาฏศิลป์ไทย วิดีโอสื่อการสอนเชื่อมโยง Google Sheets ข้อสอบ 100 ข้อประจำบท และมินิเกมเรียนรู้",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
